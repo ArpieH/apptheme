@@ -15,33 +15,38 @@ Very helpful project for beginners who can join and practice their skills and le
 
 __A User can see my initial repository and live demo__
 
-### Repo
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
-
-## 1. __
-
-__full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+* Generate repo from the tamplate
+* Write initial, basic README
+* Add Wireframe
+* whrite the development Stratagy
+* Turn on GitHub Pages
+
+## 1. Make a header and navigation bar
+
+Made a name of the website, title, manu tabs
+### Repo
+
+I worked on branch header
 
 ### HTML
 
-what did you change in the HTML and why?
+* I added tags for header and navigation bar 
+* I adde classes or flexbox alignment features for navigation bar
+* Used class col-xs-12, col-sm-10, col-md-10, col-lg-10 for layout
 
 ### CSS
 
-what did you change in the CSS and why?
+* In the style sheet added feauters to header to indentify borders
+* added feuters to background, nav bar, and lists
 
-## 2. ...
+## 2.Made a showcase section for the home page
 
-...
+Worked on branch showcase.
 
-...
 
 ## Finishing Touches
 
