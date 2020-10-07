@@ -9,7 +9,7 @@ Very helpful project for beginners who can join and practice their skills and le
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://wireframe.cc/pro/pp/a9c694542380868)
+![wireframe](<a href="https://wireframe.cc/pro/pp/a9c694542380868">)
 
 ## 0. Set-Up
 
