@@ -1,16 +1,15 @@
 # Development Strategy
 
-> `name-of-project`
+> `APPtheme Project`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+Creating a website template from tutorial for educational purposes. For this using only HTML5 and CSS3.
+Very helpful project for beginners who can join and practice their skills and learn new ones
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://wireframe.cc/pro/pp/a9c694542380868)
 
 ## 0. Set-Up
 
