@@ -45,7 +45,94 @@ I worked on branch header
 
 ## 2.Made a showcase section for the home page
 
+### Repo
 Worked on branch showcase.
+ * Created tag section with the ID: section
+ * Use neccesary calsses for flexbox alignment features
+ * Added header 1 and pharagraph tags
+ 
+## 3.Made a features section for the home page
+
+Adde icons for main content of the home page
+ ### HTLM
+  * Put a tag section with ID features 
+  * Use neccesary calsses for flexbox alignment features
+  * Downloaded and linked font-awesome.css and use it to get icons
+  
+  ### CSS
+  * Downloaded and added font-awesome.css file in the css folder
+  * Added color, font, margin and padding features
+
+  
+## 4. Creating the info section for the home page 
+
+### Repo
+
+I worked on branch info-section
+
+### HTML
+* Added tag section with ID info
+* Use neccesary calsses for flexbox alignment features and layout
+* Adde image with the image tag
+* Used fa-check class for the list of features
+
+### CSS
+
+* Downloaded and added font-awesome.css file in the css folder
+* Added color, font, margin and padding features
+
+## 5. Makde a company section 
+ 
+ ### Repo
+ worked on branch company
+
+### HTML
+
+* Added the tag section with the ID company
+* Use neccesary calsses for responsive and layout
+* Added fa-phone class for the phone number of the company
+* Added fa-envelope class for the mail address of the company
+* Added fa-map class for the address of the company
+* Created a input and button in form tag for subscribe to the newsletter
+
+### CSS
+ 
+ Added background, color, margin and padding features
+ 
+ ## 6. Make a footer for the home page
+
+### Repo
+worked on branch footer
+
+* Adde tag section with ID footer
+* Use neccesary calsses for flexbox alignment features and layout
+
+
+### CSS
+
+added background and color feuters
+
+## 7. Create manu page
+
+### Repo
+
+Worked on branch menue
+
+### HTMl
+
+* Adde tag section with ID subheader
+* Created a general id name page for the main content of each menu page and class name about, contact and services for each menu
+* Created the form tag containing the button and input to enter the information in contact.html for those who want to contact
+
+### CSS
+
+* Added feuters for background, color, margin, padding and font
+* Used a media query for the proper AppTheme titel view in main content in mobile responsive view on the home page
+
+
+
+
+
 
 
 ## Finishing Touches
